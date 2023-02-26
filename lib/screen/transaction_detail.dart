@@ -155,7 +155,9 @@ class _TransactionDetailState extends State<TransactionDetail> {
                           backgroundColor: l1,
                           child: CircleAvatar(
                             radius: 40,
-                            backgroundImage: NetworkImage(userImage),
+                            backgroundImage: NetworkImage(
+                              userImage,
+                            ),
                           ),
                         ),
                       ),
