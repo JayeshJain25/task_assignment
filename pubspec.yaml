@@ -16,7 +16,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^4.0.3
   flutter_screenutil: ^5.6.1
-  device_preview: ^1.1.0
   iconsax: ^0.0.8
 
 dev_dependencies:
